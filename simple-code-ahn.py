@@ -5,6 +5,6 @@
 
 
 def simple-code-ahn(x):
-    y = x*x+1
+    y = x*x+2
     return y
 
